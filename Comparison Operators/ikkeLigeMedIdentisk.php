@@ -13,7 +13,7 @@
 		$y = 50;<br>
 		if ($x !== $y)<br>
 		{<br>
-			echo 'X er ikke lige med Y';<br>
+			echo 'X er ikke lige med med Y - datatypen er identisk, men har ikke samme værdi';<br>
 		}
 	</code>
 
