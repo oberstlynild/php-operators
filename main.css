@@ -1,0 +1,21 @@
+body {
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+code {
+	margin-top: 50px;
+	font-size: 50px;
+	display: block;
+	background: hsl(220, 80%, 90%); 
+}
+
+h1 {
+	font-size: 60px;
+	font-family: tahoma;
+}
+
+p {
+	font-size: 40px;
+}
